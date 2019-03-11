@@ -1,0 +1,3 @@
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/brincadeiras_2019/conversor_decimal_fracao/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/brincadeiras_2019/conversor_decimal_fracao/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/brincadeiras_2019/conversor_decimal_fracao/cmake-build-debug/CMakeFiles/conversor_decimal_fracao.dir

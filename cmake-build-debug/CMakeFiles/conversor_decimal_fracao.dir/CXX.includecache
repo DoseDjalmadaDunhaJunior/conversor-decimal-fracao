@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/brincadeiras_2019/conversor_decimal_fracao/Conta.cpp
+Conta.hpp
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/brincadeiras_2019/conversor_decimal_fracao/Conta.hpp
+
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/brincadeiras_2019/conversor_decimal_fracao/Conta.hpp
+math.h
+-
+sstream
+-
+StringChar.hpp
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/brincadeiras_2019/conversor_decimal_fracao/StringChar.hpp
+Simplificacao.hpp
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/brincadeiras_2019/conversor_decimal_fracao/Simplificacao.hpp
+
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/brincadeiras_2019/conversor_decimal_fracao/Simplificacao.hpp
+iostream
+-
+
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/brincadeiras_2019/conversor_decimal_fracao/StringChar.hpp
+iostream
+-
+
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/brincadeiras_2019/conversor_decimal_fracao/main.cpp
+Conta.hpp
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/brincadeiras_2019/conversor_decimal_fracao/Conta.hpp
+
